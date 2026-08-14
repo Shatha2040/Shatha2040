@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="1774" height="787" alt="ChatGPT Image " src="https://github.com/user-attachments/assets/fb0b6d76-66e5-47e8-b484-7185581358b8" />
-
+<img width="1774" height="887" alt="ChatGPT Image 14 أغسطس 2026، 07_34_34 ص" src="https://github.com/user-attachments/assets/601a6d1d-6a24-496e-b7ed-d8297fc5f67e" />
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -128,6 +127,6 @@ I'm interested in opportunities and collaborations around
 
 <br>
 
-<img width="1200" height="260" alt="eagle_flight (2)" src="https://github.com/user-attachments/assets/40379cf9-0e83-4036-bc7d-42b3a090be64" />
+<img width="1200" height="260" alt="eagle_flight (2)" src="https://github.com/user-attachments/assets/bb1d5cc8-984a-4921-ba10-b49aae4907b6" />
 
 </div>
