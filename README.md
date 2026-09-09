@@ -80,7 +80,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/PYTHON-5792C1?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/DART-C9895E?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
 </p>
 
 <br>
